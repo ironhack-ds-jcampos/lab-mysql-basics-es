@@ -1,0 +1,3 @@
+SELECT DISTINCT l.status
+FROM loan l
+ORDER BY 1;
